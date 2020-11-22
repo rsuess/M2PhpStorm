@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.rsuess.m2phpstorm
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
